@@ -57,3 +57,6 @@ Para renomear um container é utilizando o comando
 ```console
 docker run -dti --name Ubuntu-B ubuntu
 ```
+
+docker compose up -d
+docker compose down
